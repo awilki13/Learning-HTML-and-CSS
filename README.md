@@ -6,3 +6,5 @@ https://github.com/getify/You-Dont-Know-JS
 http://javascript.info  
 https://eloquentjavascript.net/  
 
+# SKIP JQuery for now
+
